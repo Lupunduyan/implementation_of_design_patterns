@@ -7,9 +7,9 @@ It is often used to make existing classes work with others without modifying the
 
 ## Adapter operation                                          
 
-### - The adapter takes an interface compatible with one of the existing objects.
-### - The existing object can call the methods of the adapter via this interface in any security.
-### - When the adapter receives a call, it passes the request to the second object in a format and in an order he can interpret.
+- The adapter takes an interface compatible with one of the existing objects.
+- The existing object can call the methods of the adapter via this interface in any security.
+- When the adapter receives a call, it passes the request to the second object in a format and in an order he can interpret.
 
 
 ## Insert a square peg into a round hole example explained    
