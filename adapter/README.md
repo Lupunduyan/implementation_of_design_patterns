@@ -26,4 +26,4 @@ Here is an example of using the Adapter design pattern that solves the classic p
 	- SquarePegAdapter
 
 
-# NAY_
+###### NAY_
